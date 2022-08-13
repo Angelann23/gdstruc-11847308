@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GDSTRUC-11847308.iml" filepath="$PROJECT_DIR$/.idea/GDSTRUC-11847308.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm-Stack/Midterm-Stack.iml" filepath="$PROJECT_DIR$/Midterm-Stack/Midterm-Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz1-Sorting/Quiz1-Sorting.iml" filepath="$PROJECT_DIR$/Quiz1-Sorting/Quiz1-Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz2-Lists/Quiz2-Lists.iml" filepath="$PROJECT_DIR$/Quiz2-Lists/Quiz2-Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz3-Matchmaking/Quiz3-Matchmaking.iml" filepath="$PROJECT_DIR$/Quiz3-Matchmaking/Quiz3-Matchmaking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz4/Quiz4.iml" filepath="$PROJECT_DIR$/Quiz4/Quiz4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz5/Quiz5.iml" filepath="$PROJECT_DIR$/Quiz5/Quiz5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz6-Trees/Quiz6-Trees.iml" filepath="$PROJECT_DIR$/Quiz6-Trees/Quiz6-Trees.iml" />
+    </modules>
+  </component>
+</project>
